@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1555951024000,
+    "timestamp": 1555952888000,
     "version": 19,
     "name": "creditHunter",
     "icon": "default-repo-icon.png",
@@ -39,26 +39,16 @@
       }
     },
     {
-      "authorName": "robin",
       "categories": [
-        "Games"
+        "Development"
       ],
       "suggestedVersionCode": "8",
       "license": "Unknown",
       "name": "pemburukredit",
-      "added": 1555929400000,
+      "added": 1555950737000,
       "icon": "id.corp.pemburukredit.8.png",
       "packageName": "id.corp.pemburukredit",
-      "lastUpdated": 1555950737000,
-      "localized": {
-        "zh-Hans": {
-          "description": "<p>this is pemburukedia</p>",
-          "featureGraphic": "52112_OSOJcfZP.jpg",
-          "phoneScreenshots": [
-            "1.jpeg"
-          ]
-        }
-      }
+      "lastUpdated": 1555950737000
     }
   ],
   "packages": {
