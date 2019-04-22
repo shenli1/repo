@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1555930372000,
+    "timestamp": 1555930396000,
     "version": 19,
     "name": "creditHunter",
     "icon": "default-repo-icon.png",
@@ -21,7 +21,7 @@
       "name": "1.\u4ecb\u7ecd\u4e0e\u5b89\u88c5",
       "added": 1555930358000,
       "packageName": "1.\u4ecb\u7ecd\u4e0e\u5b89\u88c5",
-      "lastUpdated": 1555930372000
+      "lastUpdated": 1555930396000
     },
     {
       "authorName": "robin",
@@ -51,7 +51,7 @@
   "packages": {
     "1.\u4ecb\u7ecd\u4e0e\u5b89\u88c5": [
       {
-        "added": 1555930372000,
+        "added": 1555930396000,
         "apkName": "1.\u4ecb\u7ecd\u4e0e\u5b89\u88c5.docx",
         "hash": "0adfaeef41ffb0378556ce51e89c7179a535d9f3b711494d8d26956d88004eb8",
         "hashType": "sha256",
