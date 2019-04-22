@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1555950737000,
+    "timestamp": 1555951024000,
     "version": 19,
     "name": "creditHunter",
     "icon": "default-repo-icon.png",
@@ -16,7 +16,33 @@
   },
   "apps": [
     {
+      "authorName": "3fish tech",
+      "categories": [
+        "Money"
+      ],
+      "suggestedVersionCode": "180",
+      "license": "Unknown",
+      "name": "Kelapa Hijau",
+      "added": 1555940967000,
+      "icon": "id.kelapahijau.uuuuu.180.png",
+      "packageName": "id.kelapahijau.uuuuu",
+      "lastUpdated": 1555941155000,
+      "localized": {
+        "en-US": {
+          "description": "<p>immediate disbursement</p>",
+          "featureGraphic": "1.jpeg",
+          "phoneScreenshots": [
+            "1904191555670389615.jpg"
+          ],
+          "summary": "online loan applicaiton"
+        }
+      }
+    },
+    {
       "authorName": "robin",
+      "categories": [
+        "Games"
+      ],
       "suggestedVersionCode": "8",
       "license": "Unknown",
       "name": "pemburukredit",
@@ -96,6 +122,91 @@
         ],
         "versionCode": 8,
         "versionName": "1.0.0.8"
+      }
+    ],
+    "id.kelapahijau.uuuuu": [
+      {
+        "added": 1555941155000,
+        "apkName": "id.kelapahijau.uuuuu_SMS-001.apk",
+        "features": [
+          "android.hardware.camera",
+          "android.hardware.camera.autofocus"
+        ],
+        "hash": "4a4f8f153065fe49c9245c7cbd30cf2acdb75e2968a9f6f973c7f90b50a53e3a",
+        "hashType": "sha256",
+        "minSdkVersion": "19",
+        "nativecode": [
+          "armeabi"
+        ],
+        "packageName": "id.kelapahijau.uuuuu",
+        "sig": "039c1b2317a22fb2124e9acd6441788e",
+        "signer": "d4bbc7f5d47a1eaf62c3680ceff039118634636cd4c47f2f46e04664b226db10",
+        "size": 10804087,
+        "targetSdkVersion": "28",
+        "uses-permission": [
+          [
+            "android.permission.READ_CALL_LOG",
+            null
+          ],
+          [
+            "android.permission.READ_SMS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 180,
+        "versionName": "1.8.0"
       }
     ]
   }
