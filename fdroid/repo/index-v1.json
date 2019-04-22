@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1555930334000,
+    "timestamp": 1555930358000,
     "version": 19,
     "name": "creditHunter",
     "icon": "default-repo-icon.png",
@@ -15,6 +15,14 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "suggestedVersionCode": "1555930358",
+      "license": "Unknown",
+      "name": "1.\u4ecb\u7ecd\u4e0e\u5b89\u88c5",
+      "added": 1555930358000,
+      "packageName": "1.\u4ecb\u7ecd\u4e0e\u5b89\u88c5",
+      "lastUpdated": 1555930358000
+    },
     {
       "authorName": "robin",
       "suggestedVersionCode": "8",
@@ -41,6 +49,18 @@
     }
   ],
   "packages": {
+    "1.\u4ecb\u7ecd\u4e0e\u5b89\u88c5": [
+      {
+        "added": 1555930358000,
+        "apkName": "1.\u4ecb\u7ecd\u4e0e\u5b89\u88c5.docx",
+        "hash": "0adfaeef41ffb0378556ce51e89c7179a535d9f3b711494d8d26956d88004eb8",
+        "hashType": "sha256",
+        "packageName": "1.\u4ecb\u7ecd\u4e0e\u5b89\u88c5",
+        "size": 37068,
+        "versionCode": 1555930358,
+        "versionName": "2019-04-22"
+      }
+    ],
     "com.fish.dingdingtools": [
       {
         "added": 1555930201000,
