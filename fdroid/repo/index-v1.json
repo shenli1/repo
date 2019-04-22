@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1555932895000,
+    "timestamp": 1555932903000,
     "version": 19,
     "name": "creditHunter",
     "icon": "default-repo-icon.png",
@@ -29,59 +29,9 @@
           "description": "<p>this is pemburukedia</p>"
         }
       }
-    },
-    {
-      "suggestedVersionCode": "1",
-      "license": "Unknown",
-      "name": "\u9489\u9489\u76d2\u5b50",
-      "added": 1555930197000,
-      "icon": "com.fish.dingdingtools.1.png",
-      "packageName": "com.fish.dingdingtools",
-      "lastUpdated": 1555930201000
     }
   ],
   "packages": {
-    "com.fish.dingdingtools": [
-      {
-        "added": 1555930201000,
-        "apkName": "app.apk",
-        "hash": "7a438d052e9898dafc0296118322da30e43d8ca75889c1a9f1831f3df9eb1bd1",
-        "hashType": "sha256",
-        "minSdkVersion": "19",
-        "nativecode": [
-          "armeabi"
-        ],
-        "packageName": "com.fish.dingdingtools",
-        "sig": "eef0139c9e2d00b7cc2791d386036057",
-        "signer": "a0e490f18fcbc8fb53385a842ad40a7669c879e4abde6f9b9ef916166e447338",
-        "size": 2467152,
-        "targetSdkVersion": "23",
-        "uses-permission": [
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.DISABLE_KEYGUARD",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ]
-        ],
-        "versionCode": 1,
-        "versionName": "1.0"
-      }
-    ],
     "id.corp.pemburukredit": [
       {
         "added": 1555929404000,
