@@ -1,0 +1,98 @@
+{
+  "repo": {
+    "timestamp": 1555929931000,
+    "version": 19,
+    "name": "creditHunter",
+    "icon": "default-repo-icon.png",
+    "address": "https://raw.githubusercontent.com/shenli1/repo/master/fdroid/repo",
+    "description": "credit hunter repo",
+    "mirrors": [
+      "https://raw.githubusercontent.com/shenli1/repo/master/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "authorName": "robin",
+      "suggestedVersionCode": "8",
+      "license": "Unknown",
+      "name": "pemburukredit",
+      "added": 1555929400000,
+      "icon": "id.corp.pemburukredit.8.png",
+      "packageName": "id.corp.pemburukredit",
+      "lastUpdated": 1555929404000,
+      "localized": {
+        "zh-Hans": {
+          "description": "<p>this is pemburukedia</p>"
+        }
+      }
+    }
+  ],
+  "packages": {
+    "id.corp.pemburukredit": [
+      {
+        "added": 1555929404000,
+        "apkName": "pemburukredit.apk",
+        "hash": "7053881d632dc29d523ee170c67f3d69f8706a422ed1d3beb61c617b39d42a7c",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "id.corp.pemburukredit",
+        "sig": "66fd8489db92f6a7fdcf674edaaa3e06",
+        "signer": "826d4f7bf5ecd9a6402ef37a7b24952bce99c4b2d8bcf4b354f85e43358901ce",
+        "size": 4531929,
+        "targetSdkVersion": "26",
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "id.corp.pemburukredit.permission.C2D_MESSAGE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.0.0.8"
+      }
+    ]
+  }
+}
