@@ -1,12 +1,13 @@
 {
   "repo": {
-    "timestamp": 1555930014000,
+    "timestamp": 1555930044000,
     "version": 19,
     "name": "creditHunter",
     "icon": "default-repo-icon.png",
     "address": "https://raw.githubusercontent.com/shenli1/repo/master/fdroid/repo",
     "description": "credit hunter repo",
     "mirrors": [
+      "https://raw.githubusercontent.com/shenli1/repo/master/fdroid/repo/repo",
       "https://raw.githubusercontent.com/shenli1/repo/master/fdroid/repo/repo"
     ]
   },
